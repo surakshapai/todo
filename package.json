@@ -1,7 +1,7 @@
 {
-  "name"         : "node-todo",
+  "name"         : "myTodo",
   "version"      : "0.0.0",
-  "description"  : "Simple todo application.",
+  "description"  : "Simple todo application in AngularJS",
   "main"         : "server.js",
   "author"       : "Suraksha",
   "dependencies" : {
